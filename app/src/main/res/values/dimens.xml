@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="h0">20sp</dimen>
+    <dimen name="h1">16sp</dimen>
+    <dimen name="my_image">150dp</dimen>
+    <dimen name="my_icon">60dp</dimen>
+
+</resources>

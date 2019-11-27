@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="title">
+        <item>ห้ามเลี้ยวซ้าย</item>
+        <item>ห้ามเลี้ยวขวา</item>
+        <item>ให้เดินรถทางเดียวไปข้างหน้า</item>
+        <item>ให้เลี้ยวซ้าย</item>
+        <item>ให้เลี้ยวขวา</item>
+        <item>หัวข้อที่ 6</item>
+        <item>หัวข้อที่ 7</item>
+        <item>หัวข้อที่ 8</item>
+        <item>หัวข้อที่ 9</item>
+        <item>หัวข้อที่ 10</item>
+        <item>หัวข้อที่ 11</item>
+        <item>หัวข้อที่ 12</item>
+        <item>หัวข้อที่ 13</item>
+        <item>หัวข้อที่ 14</item>
+        <item>หัวข้อที่ 16</item>
+        <item>หัวข้อที่ 17</item>
+        <item>หัวข้อที่ 18</item>
+        <item>หัวข้อที่ 19</item>
+        <item>หัวข้อที่ 20</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>รายละเอียดที่ 1: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 2: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 3: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 4: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 5: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 6: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 7: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 8: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 9: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 10: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 11: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 12: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 13: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 14: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 15: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 16: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 17: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 18: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 19: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>รายละเอียดที่ 20: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+    </string-array>
+</resources>
